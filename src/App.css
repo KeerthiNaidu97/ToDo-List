@@ -1,5 +1,9 @@
 .App {
-  text-align: center;
+  /* text-align: center; */
+  background: url("https://image.freepik.com/free-photo/yellow-list-top-view_23-2148475388.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+  height: 750px;
 }
 
 .App-logo {
